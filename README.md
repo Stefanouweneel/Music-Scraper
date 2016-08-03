@@ -19,6 +19,7 @@ Cool stuf we learned from this project include:
 ###TODO: 
 
 This project will be continued on [this page] (https://github.com/Stefanouweneel/music_hackathon). 
+A live version of this continue project can be found [here] (https://tmf-revived.herokuapp.com).
 
 ###SETUP
 
