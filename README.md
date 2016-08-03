@@ -18,10 +18,7 @@ Cool stuf we learned from this project include:
 
 ###TODO: 
 
-- Background helpers
-- Find a good source for images
-- Bring back connection with Twitter API
-- Styling
+This project will be continued on [this page] (https://github.com/Stefanouweneel/music_hackathon). 
 
 ###SETUP
 
